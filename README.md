@@ -1,10 +1,12 @@
 # mern-crud-users
 # server 
 npm intsall
+
 npm run dev
 
 # client 
 npm install
+
 npm start
 
 # together (concurrently)
